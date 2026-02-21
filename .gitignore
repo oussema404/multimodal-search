@@ -1,3 +1,4 @@
 ./data/images
 ./data/captions.csv
 /venv
+__pycache__
