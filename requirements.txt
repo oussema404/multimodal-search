@@ -1,0 +1,8 @@
+torch 
+torchvision 
+faiss-cpu 
+gradio 
+pillow 
+tqdm 
+pandas 
+sentence-transformers
