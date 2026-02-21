@@ -1,5 +1,5 @@
 import gradio as gr
-from search_engine import SearchEngine
+from search_engine_qdrant import SearchEngine
 
 engine = SearchEngine()
 
