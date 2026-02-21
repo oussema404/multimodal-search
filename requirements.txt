@@ -6,3 +6,4 @@ pillow
 tqdm 
 pandas 
 sentence-transformers
+qdrant-client 
